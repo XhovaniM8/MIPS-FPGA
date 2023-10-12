@@ -16,6 +16,8 @@ A fully functional MIPS Processor implemented in Verilog for FPGA deployment.
 
 ## Introduction
 
+Based on Digital Design and Computer Architecture 2nd Edition
+
 **MIPStastic-FPGA** is a detailed and optimized implementation of a MIPS Processor in Verilog. The design aims to provide a robust environment for those interested in understanding the intricacies of MIPS architecture and leveraging the capabilities of FPGA for real-time execution.
 
 ## Features
@@ -36,3 +38,19 @@ A fully functional MIPS Processor implemented in Verilog for FPGA deployment.
 ### Installation
 
 1. Clone the repository:
+
+# Goal Tracker & Planner 🚀
+
+## Project Goals
+
+1. **Goal 1: [Create Github Repository & Project Plan]**
+    - [x] Step 1: [Created Repository]
+    - [ ] Step 2: [Read Digital Design and Computer Architecture 2nd Edition]
+    - [ ] Step 3: [Implement Project Plan]
+    - Progress: ![Progress](https://progress-bar.dev/0/)
+
+---
+
+
+
+
