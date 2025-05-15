@@ -1,0 +1,13 @@
+{
+  "name": "mips16-processor",
+  "version": "1.0.0",
+  "description": "Single-cycle 16-bit MIPS processor with testbench",
+  "dependencies": ["cmake", "catch2","verilator"],
+  "vcpkg-configuration": {
+    "default-registry": {
+      "kind": "git",
+      "baseline": "<INSERT MICROSOFT VCPKG BASELINE HASH>",
+      "repository": "https://github.com/microsoft/vcpkg.git"
+    }
+  }
+}
